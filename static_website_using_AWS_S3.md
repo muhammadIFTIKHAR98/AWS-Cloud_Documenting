@@ -18,8 +18,10 @@
     }
 
   3) now upload the files required for static web hosting. there are several files and folders to be uploaded such as -
-         css , fonts, images, js folders for website design and theme
-         index.html for website
-         error.html for website in case some error occured while calling index.html.
+         css , fonts, images, js folders for website design and theme.
+         index.html for website (saved in the same repository with the same name).
+         error.html for website in case some error occured while calling index.html (saved in the same repository with the same name).
 
-  4) now open the S3 bucket then into static web hosting and click the link.
+     
+
+  5) now open the S3 bucket then into static web hosting and click the link.
