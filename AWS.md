@@ -5,10 +5,12 @@
     4) Programming Language - Mainly focus on one language like -- PYTHON.
 
 #Fundamental AWS Concepts:-
+
   1) Global AWS Infrastructure
     a) Region
     b) Availability zone (AZ)
-  3) Services
+
+  2) Services
     a) Network
     b) Compute
     c) Storage
