@@ -7,8 +7,8 @@
 #Fundamental AWS Concepts:-
 
   1) Global AWS Infrastructure
-    a) Region
-    b) Availability zone (AZ)
+    a) Region - a region consist of several availability zones
+    b) Availability zone (AZ) - an availability zone is the logical data center within an AWS region that provides a highly available and fault-tolerent environment for running applications and databases.
 
   2) Services
     a) Network
