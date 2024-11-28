@@ -3,4 +3,5 @@
   1) setup an IAM Role so that SSM system manager and EC2 can talk to each other.
   2) now launch the EC2 Instance and connect it with IAM Role which was creted above.
 
+- there are many options within the AWS system manager such as Fleet manager, session manager, Run command etc.
 -Open AWS system manager then go to Fleet manager, 
