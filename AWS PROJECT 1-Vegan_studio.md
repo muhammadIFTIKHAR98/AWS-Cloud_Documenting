@@ -29,3 +29,7 @@
        - It will increase subscribers because if you're giving a free giveaway, as in the case of a contest, then obviously you're going to encourage more people to sign up.
        - It will increase sales because hopefully the brand awareness will encourage members of the public to visit our cafes and restaurants and it will obviously increase customer engagement.
 
+  -> SOLUTION 
+
+    1) First of all we need to create an architectural Design to understand and get a clear picture of which AWS services will be required and how they will be interconnected.
+    2) 
