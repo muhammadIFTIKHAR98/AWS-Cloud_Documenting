@@ -1,0 +1,25 @@
+# DOCKER TUTORIAL FOR BEGINNERS (TechWorld with Nana)
+# Overview
+  - What is Docker? What is Container?
+  - Docker vs. Virtual Machine
+  - Docker Installation
+  - Main Commands
+  - Debugging a Container
+  - Developing with Containers
+  - Docker Compose - Running multiple services
+  - Dockfile -Building own Docker image
+  - Private Docker Repository (AWS)
+  - Deploying the containerized App
+  - Volume- Persisting Data
+  - Volume Demo
+
+1) What is Container?
+  A way to package application with all the necessary dependencies
+    and configuuration
+  Portable artifact, easily shared and moved around
+    make development and deployment more efficient.
+  they live in either : 
+      Container Repository.
+      Private repository.
+      Public repository for Docker (Docker hub).
+
