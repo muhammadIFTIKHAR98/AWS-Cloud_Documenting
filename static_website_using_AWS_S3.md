@@ -1,6 +1,11 @@
-#we can create the new static website using the AWS S3 bucket only.
-#steps required
-  1) create a S3 bucket (name should be keep in mind as it will show the same name on the website) (keep the availability zone in mind) keep the Block public access - OFF, bucket versioning - Enabled / Disabled, static website hosting - Enabled.
+# Static website using the Amazon S3
+
+# steps required
+  1) create a S3 bucket (name should be keep in mind as it will show the same name on the website)
+     (keep the availability zone in mind)
+       keep the Block public access - OFF,
+       bucket versioning - Enabled / Disabled,
+       static website hosting - Enabled.
   2) create Bucket policy - it can be created by using the given policy generator option
       {
     "Version": "2012-10-17",
@@ -13,7 +18,7 @@
             "Principal": "*",
             "Action": "s3:GetObject",
             "Resource": "arn:aws:s3:::vegan-product-launch02/*"
-        }
+       }
     ]
     }
 
@@ -24,4 +29,4 @@
 
      
 
-  5) now open the S3 bucket then into static web hosting and click the link.
+  4) now open the S3 bucket then into static web hosting and click the link.
