@@ -2,6 +2,7 @@
    # Steps to create/ setup VPC in AWS
 
    To create the VPC in AWS, there are several points to bear in mind.
+   
       1) Select the region, the VPC which will be created in the particular region will be available / cover all the availability zone of that particular region.
       2) define an IP address range.
       3) Number of VPC per region- 5 VPCs (soft limit)
