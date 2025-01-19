@@ -22,4 +22,6 @@
                { "action": "stop/stop"
                }
        - schedule and time slot will be as per the cron format.
+    
+NOTE- https://repost.aws/knowledge-center/start-stop-lambda-eventbridge (THIS IS THE PROPER DOCUMENTATION OF AWS)
      
